@@ -1,4 +1,4 @@
-### Witcher 3 Enemy Scaling and Other Changes
+### Witcher 3 Enemy Scaling and Other Balance Changes
 
 ##### Version: 1.0
 
