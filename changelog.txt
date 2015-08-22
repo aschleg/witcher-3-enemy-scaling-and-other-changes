@@ -1,5 +1,10 @@
 Enemy Scaling and Other Changes
 
+
+Version: 1.1
+
+Reverted respective difficulty health and damage increases back to original level.
+
 Version: 1.0
 
 Items
