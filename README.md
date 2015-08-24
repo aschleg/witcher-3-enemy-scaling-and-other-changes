@@ -1,10 +1,30 @@
 ### Witcher 3 Enemy Scaling and Other Balance Changes
 
+#### Description
+
+I love the Witcher series so much I wanted to share my mod that I recently created to smooth out the difficulty curve and make it challenging throughout. With the release of the ModKit, I was inspired to see if I could try my hand and providing a challenging experience into the end game. I love the challenge presented in the Witcher series and the more difficult it is the more like a Witcher I feel, haha.
+
+On my Death March playthrough, I loved the challenge presented in the first 15 levels or so, however; after that the game becomes much easier and gets even easier when you get the top-level gear and items. This was also the case in the Witcher even on Dark Mode, you could steamroll through the game starting in Act 2. 
+
+I wanted to see if I could keep the difficulty presented in the early game throughout without making any drastic changes to gear and such. This was accomplished by removing penalties and bonuses to enemies below and above Geralt's level. I also adjusted some items' power down as I felt even in Death March they were overpowered. 
+
+I haven't gotten into the late game on my new playthrough so I can't report on that yet; if anyone has any feedback to share it's definitely appreciated!
+
+#### Installation
+
+Go to your Witcher 3 installation folder, such as C:/GOG Games/The Witcher 3 Wild Hunt or Steam/steamapps/common/The Witcher 3 Wild Hunt and copy the mod folder into your mods directory. Create the mods folder if you don't have one.
+
+The final file structure should be Witcher 3 Folder/mods/modScalingandBalance.
+
+That's it!
+
+#### Uninstallation
+
+Delete the modScalingandBalance folder from your mods directory.
+
 ##### Version: 1.0
 
 #### Oils
-
-- Changed charges from (20, 40, 60) to (100, 200, 300)
 
 - Changed % attack power increase from (10%, 25%, 50%) to (10%, 20%, 35%)
   
@@ -56,11 +76,3 @@
   26, 30. Slots are now opened at levels 1, 2, 3, 4, 6, 8, 10, 12, 14, 16, 18, 20.
 
 - Mutagen slots are now unlocked by level 20, unlocking at levels 2, 8, 14, 20. Slots were originally unlocked at levels 2, 9, 16, 28.
-
-#### Overall Difficulty
-
-- Increased enemy bonuses in Death March difficulty. Enemies now have 100% more health from 80% and deal 250% more damage,
-  from 200%.
-
-- Increased enemy bonuses in Blood and Broken Bones difficulty. Enemies have 50% more health from 20% and deal 150% more damage,
-  from 130%.
